@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\bin\Debug\net8.0\condicionesCompuestas.exe
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\bin\Debug\net8.0\condicionesCompuestas.deps.json
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\bin\Debug\net8.0\condicionesCompuestas.runtimeconfig.json
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\bin\Debug\net8.0\condicionesCompuestas.dll
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\bin\Debug\net8.0\condicionesCompuestas.pdb
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\obj\Debug\net8.0\condicionesCompuestas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\obj\Debug\net8.0\condicionesCompuestas.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\obj\Debug\net8.0\condicionesCompuestas.AssemblyInfo.cs
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\obj\Debug\net8.0\condicionesCompuestas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\obj\Debug\net8.0\condicionesCompuestas.dll
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\obj\Debug\net8.0\refint\condicionesCompuestas.dll
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\obj\Debug\net8.0\condicionesCompuestas.pdb
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\obj\Debug\net8.0\condicionesCompuestas.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\condiciones compuestas\condicionesCompuestas\condicionesCompuestas\obj\Debug\net8.0\ref\condicionesCompuestas.dll
